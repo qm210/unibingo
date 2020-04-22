@@ -20,4 +20,5 @@ dependencies:
 	PIL (install via 'pip install pil')
 
 disclaimer:
-	I did not create this shitty font, but got it from the internet for non-commercial purposes.
+	- die words.txt ist von janis, asli, und wem auch immer
+	- shitty font, auch nicht von mir, hab ich aus dem internet for non-commercial purposes.
