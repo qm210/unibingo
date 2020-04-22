@@ -12,6 +12,9 @@ just call main.py with these seeds as list:
 
 greetings from home office - QM
 
+change words.txt:
+	- each line is a block
+	- separate multi-line blocks with semicolon ;
 
 dependencies:
 	PIL (install via 'pip install pil')
