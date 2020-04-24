@@ -17,7 +17,7 @@ change words.txt:
 	- separate multi-line blocks with semicolon ;
 
 dependencies:
-	PIL (install via 'pip install pil')
+	PIL (install via 'pip install Pillow')
 
 disclaimer:
 	- die words.txt ist von janis, asli, und wem auch immer
